@@ -1,0 +1,69 @@
+/* style for traditional instrumental music*/
+body {
+  background-image: url("../img/visitnepal.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+
+.header {
+  background-color: gray;
+  height: 50px;
+  width: 1200px;
+  padding: 20px 0px 30px 0px;
+
+}
+
+.fancy {
+  font-weight: bold;
+  font-size: 35px;
+  color: blue;
+  text-align: center;
+  border: 4px solid coral; border-radius: 10px; display: inline-table;
+              }
+
+.box1 {
+  background-color: blue;
+  height: 600px;
+  width: 1200px;
+}
+.box2 {
+    height: 580px;
+    width: 400px;
+  padding: 10px;
+  float: left;
+  background-color: red;
+              }
+
+.content_box {
+                width:750px;
+                height:580px;
+                padding: 10px;
+                float: right;
+                font-family:arial;
+                font-size: 18px;
+                color: white;
+                    }
+  .second_box {
+      background-color: gray;
+        height: 400px;
+        width: 1200px;
+          }
+
+  .box3 {
+    background-image: url("../img/lakhe.JPG");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+     height: 400px;
+     width: 300px;
+     float: right;
+  }
+  .content_box1 {
+          height: 400px;
+          width: 890px;
+          float: left;
+          color: white;
+          font-family:arial;
+          font-size: 18px;
+          padding: 5px;
+                  }
